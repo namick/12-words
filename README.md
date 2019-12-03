@@ -4,6 +4,7 @@ Quickly generate a cryptographically secure twelve word mnemonic to be used as a
 
 ```
 > docker run namick/12-words
+
 desk grow warm depend aspect moment turkey zebra lend glove install jar
 ```
 
